@@ -1561,7 +1561,7 @@ body .ui-tooltip {
   text-decoration: underline;
 }
 .article-entry h3::after {
-  content: " ";
+  content: " >";
 }
 .article-entry h4,
 .article-entry h5,
