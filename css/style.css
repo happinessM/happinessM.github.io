@@ -1561,7 +1561,7 @@ body .ui-tooltip {
   text-decoration: underline;
 }
 .article-entry h3::after {
-  content: " >";
+  content: " ";
 }
 .article-entry h4,
 .article-entry h5,
@@ -1673,7 +1673,7 @@ body .ui-tooltip {
 }
 #article-nav-older::after {
   padding-left: 0.5em;
-  content: "→";
+  content: "";
   color: #fff;
   font-weight: bold;
   font-family: Calibri;
